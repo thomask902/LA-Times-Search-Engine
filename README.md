@@ -1,4 +1,4 @@
-# msci-541-f23-hw5-thomask902
+# LA Times Search Engine
 
 **Thomas Kleinknecht, WATIAM: tkleinkn**
 
