@@ -1,6 +1,6 @@
 # LA Times Search Engine
 
-**Thomas Kleinknecht, WATIAM: tkleinkn**
+**Thomas Kleinknecht**
 
 ### Language information:
 The programs were written in Java, specifically java version "13.0.1”. 
